@@ -40,7 +40,7 @@ const int kMaxRaggedSearch = 25;
 // Minimum number of lines in a column width to make it interesting.
 const int kMinLinesInColumn = 10;
 // Minimum width of a column to be interesting.
-const int kMinColumnWidth = 200;
+const int kMinColumnWidth = 10;
 // Minimum fraction of total column lines for a column to be interesting.
 const double kMinFractionalLinesInColumn = 0.125;
 // Fraction of height used as alignment tolerance for aligned tabs.
